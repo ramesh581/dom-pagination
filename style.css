@@ -1,0 +1,25 @@
+#main{
+    display: flex;
+    justify-content: center;
+    margin: 150px;
+}
+button{
+    color: lightseagreen;
+    padding: 15px;
+}
+table{
+    margin: auto;
+    width: 500px;
+}
+thead{
+    color: white;
+    background-color: #000;
+}
+th{
+    padding: 5px;
+}
+.active {
+    background-color: aqua;
+    margin: 1px;
+    color: #000;
+}
